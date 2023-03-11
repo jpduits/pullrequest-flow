@@ -4,4 +4,4 @@ echo 'Hello World!';
 echo 'Test commit squash and merge';
 echo 'Aanpassing voor pullrequest';
 
-echo 'Aanpassing in testbranch'
+echo 'Aanpassing in testbranch';
