@@ -11,4 +11,4 @@ echo 'Nu gaan we andere manier van mergen proberen';
 
 echo 'Aanpassing voor pullrequest';
 
-echo 'een nieuwe regel';
+echo 'een nieuwe regel die we hebben aangepast';
