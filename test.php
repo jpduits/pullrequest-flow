@@ -10,3 +10,5 @@ echo 'Nog een aanpassing, hoeveel commits zijn er nu bijgekomen?';
 echo 'Nu gaan we andere manier van mergen proberen';
 
 echo 'Aanpassing voor pullrequest';
+
+echo 'een nieuwe regel';
