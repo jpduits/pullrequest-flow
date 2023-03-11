@@ -15,4 +15,4 @@ echo 'een nieuwe regel die we hebben aangepast';
 
 echo 'en nog een regel';
 
-echo 'nu gaan rebase en merge proberen';
+echo 'nu gaan rebase en merge proberen!';
