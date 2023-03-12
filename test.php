@@ -18,3 +18,5 @@ echo 'en nog een regel';
 echo 'nu gaan rebase en merge proberen!';
 
 echo 'Nog een regel';
+
+echo "wordt deze commit teruggeven via de API?";
